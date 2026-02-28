@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+F:/ST-1/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule
